@@ -1,0 +1,7 @@
+{
+  "name": "Muniz Imóveis",
+  "description": "Landing page de lançamentos imobiliários de alto padrão nos bairros Tatuapé, Mooca e Vila Ema pela Muniz Imóveis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
